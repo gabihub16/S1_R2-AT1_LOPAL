@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Exerc&#237;cio1"/>
+        <attribute name="authors" value="I1D35"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-03-17 04:41:01 "/>
+        <attribute name="created" value="STFEMzU7RUNGUDUwN0QxMjYzNjA5OzIwMjYtMDMtMTc7IjAxOjMxOjIzICI7MjM1Mw=="/>
+        <attribute name="edited" value="STFEMzU7RUNGUDUwN0QxMjYzNjA5OzIwMjYtMDMtMTc7IjA0OjQxOjAxICI7MzsyNDYz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n1" type="Integer" array="False" size=""/>
+            <output expression="&quot;digite dois n&#250;meros&quot;" newline="True"/>
+            <input variable="n1"/>
+            <declare name="n2" type="Integer" array="False" size=""/>
+            <input variable="n2"/>
+            <output expression="&quot;o resultado &#233; &quot; &amp;n1+n2" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
